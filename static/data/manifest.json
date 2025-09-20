@@ -8,7 +8,7 @@
             },
             "prefCode": "11",
             "type": "city",
-            "topo": "/data/topo/11203.topo.json",
+            "topo": "/data/topo/11203.topojson",
             "updated": "2022-06-24"
         }
     }
