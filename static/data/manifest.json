@@ -1,6 +1,5 @@
 {
     "version": 1,
-    "generated": "2025-09-20T00:00:00Z",
     "areas": {
         "11203": {
             "name": {
@@ -9,50 +8,8 @@
             },
             "prefCode": "11",
             "type": "city",
-            "slug": "kawaguchi",
             "topo": "/data/topo/11203.topo.json",
-            "center": [
-                139.717,
-                35.807
-            ],
-            "bbox": [
-                139.66,
-                35.75,
-                139.78,
-                35.85
-            ],
-            "features": {
-                "count": 0
-            },
-            "updated": "2025-09-20",
-            "size": 0,
-            "sha256": ""
-        },
-        "13101": {
-            "name": {
-                "ja": "千代田区",
-                "en": "Chiyoda"
-            },
-            "prefCode": "13",
-            "type": "ward",
-            "slug": "chiyoda",
-            "topo": "/data/topo/13101.topo.json",
-            "center": [
-                139.753,
-                35.693
-            ],
-            "bbox": [
-                139.73,
-                35.67,
-                139.78,
-                35.71
-            ],
-            "features": {
-                "count": 0
-            },
-            "updated": "2025-09-20",
-            "size": 0,
-            "sha256": ""
+            "updated": "2022-06-24"
         }
     }
 }
